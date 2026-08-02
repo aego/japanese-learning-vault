@@ -1,0 +1,42 @@
+# Personal learning state
+/00 Главная.md
+/01 Прогресс и следующий шаг.md
+/10 Уроки/
+/30 Практика/
+/90 Архив/
+/20 Справочники/Кандзи — изученные.md
+
+# Daily notes and explicitly private notes
+/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md
+*.private.md
+/.private/
+/private/
+
+# Private attachments (for example, photos of handwritten exercises)
+/attachments/
+/Attachments/
+/Фото/
+/photos/
+
+# Local Obsidian state and Codex migration helpers
+/.obsidian/
+/.trash/
+/.codex/
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+# Temporary, backup, and generated files
+*.bak
+*.swp
+*.tmp
+*~
+__pycache__/
+*.py[cod]
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
