@@ -1,0 +1,4 @@
+interface:
+  display_name: "Новый набор катаканы"
+  short_description: "Современные катаканные слова без повторов"
+  default_prompt: "Use $build-katakana-wordset to create a fresh, validated set of useful modern katakana words."
